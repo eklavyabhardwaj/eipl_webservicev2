@@ -246,12 +246,13 @@ coverage report
 ------------------------------------------------------------------------
 
 ## 13. License & Contact
+License: Proprietary License – Permission Required
 
-**License**: MIT License
+Contact:
 
-**Contact**:\
-- Author: Eklavya Bhardwaj\
-- GitHub: [eklavyabhardwaj](https://github.com/eklavyabhardwaj)\
-- Email: eklavyabhardwaj@aol.com
+Author: Eklavya Bhardwaj
+GitHub: eklavyabhardwaj
+Email: eklavyabhardwaj@aol.com
+
 
 ------------------------------------------------------------------------
