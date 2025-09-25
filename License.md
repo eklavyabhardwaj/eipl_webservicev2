@@ -131,7 +131,7 @@ For permissions, licensing inquiries, or commercial agreements, please
 contact:
 
 **Author:** Eklavya Bhardwaj\
-**Email:** youremail@example.com\
+**Email:** eklavyabhardwaj@aol.com\
 **GitHub:** [eklavyabhardwaj](https://github.com/eklavyabhardwaj)
 
 ------------------------------------------------------------------------
